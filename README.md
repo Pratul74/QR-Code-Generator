@@ -32,3 +32,17 @@ A simple yet powerful QR Code Generator built with Python. This project allows y
 ```bash
 git clone https://github.com/your-username/qr-code-generator.git
 cd qr-code-generator
+
+
+## If you're using a virtual environment, activate it first:
+python -m venv venv
+source venv/bin/activate    # macOS/Linux
+venv\Scripts\activate       # Windows
+
+##Then install the required packages:
+pip install -r requirements.txt
+
+##Finally Run the app
+python main.py
+
+
