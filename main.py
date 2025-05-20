@@ -11,7 +11,7 @@ from PIL import ImageTk
 qr_color="black"
 logo_path=None
 
-
+#To Generate The Actual Qr Code
 def generate_qr():
     data=entry.get().strip()
     filename=filename_entry.get().strip().replace(" ","_") or "default"
