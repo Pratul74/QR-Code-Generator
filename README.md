@@ -3,7 +3,6 @@ A customizable QR Code Generator with logo overlay, download support, and a simp
 # QR Code Generator 🧾🔲
 
 A simple yet powerful QR Code Generator built with Python. This project allows you to generate QR codes from any text or URL, optionally add a logo in the center, and save them as image files with ease.
-
 ---
 
 ## 🚀 Features
