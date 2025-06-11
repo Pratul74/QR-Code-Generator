@@ -4,6 +4,7 @@ import qrcode
 #For converting to image
 from PIL import Image
 
+#For creating a window
 import tkinter as tk
 import qrcode.constants
 from tkinter import messagebox
