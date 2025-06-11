@@ -1,5 +1,9 @@
+#Library for making QRCode
 import qrcode
+
+#For converting to image
 from PIL import Image
+
 import tkinter as tk
 import qrcode.constants
 from tkinter import messagebox
